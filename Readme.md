@@ -2,8 +2,8 @@ Deprecated
 ==========
 
 This project is no longer useful since Emusic changed to a
-download-from-a-web-browser model.  I don't know how to actually deprecate a
-project in GitHub, so I guess this README change will have to do.
+download-from-a-web-browser model.
+
 
 Emusic Download Manager for Linux
 =================================
